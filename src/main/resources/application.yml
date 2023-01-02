@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: users.message
+  rabbitmq:
+    host: localhost
+    username: guest
+    password: guest
